@@ -25,74 +25,74 @@
     "prosConsSubtitle": "Nothing!!!!"
   },
   "media": {
-    "mainBearGif": "/assets/cute-bear.gif",
-    "musicBearGif": "/assets/music-bear.gif",
-    "comfortBearGif": "/assets/comfort-bear.gif",
-    "kissBearGif": "/assets/kiss-bears.gif",
-    "photoBearGif": "/assets/photo-bear.gif",
-    "loveYouBearGif": "/assets/love-you-bear.gif",
-    "childGif": "/assets/child.gif",
-    "roseBearGif": "/assets/rose-bear.gif",
-    "cookBearGif": "/assets/cook-bear.gif",
-    "kissSingleBearGif": "/assets/kiss-bear.gif",
-    "leftButton": "/assets/left-button.png",
-    "rightButton": "/assets/right-button.png",
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
     "envelopeSeal": "❤️"
   },
   "gifts": {
-    "gift1": "/assets/gift/gift1.jpg",
-    "gift2": "/assets/gift/gift2.jpg", 
-    "gift3": "/assets/gift/gift3.jpg"
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
   },
   "couplePhotos": [
     {
-      "image": "/assets/SEC/photo1.jpeg",
+      "image": "/This PC/OS(C:)/Personal/8th sem/SEC/photo1.jpeg",
       "caption": "Our first special moment together"
     },
     {
-      "image": "/assets/SEC/photo2.jpeg", 
+      "image": "/This PC/OS(C:)/Personal/8th sem/SEC/photo2.jpeg", 
       "caption": "Cooking memories together"
     },
     {
-      "image": "/assets/SEC/photo3.jpeg",
+      "image": "/This PC/OS(C:)/Personal/8th sem/SEC/photo3.jpeg",
       "caption": "My favorite moments"
     },
     {
-      "image": "/assets/SEC/photo4.jpeg",
+      "image": "/This PC/OS(C:)/Personal/8th sem/SEC/photo4.jpeg",
       "caption": "When you made me smile like this"
     },
     {
-      "image": "/assets/SEC/photo5.jpeg",
+      "image": "/This PC/OS(C:)/Personal/8th sem/SEC/photo5.jpeg",
       "caption": "Our miscalculated 3 month anniversary"
     },
     {
-      "image": "/assets/SEC/photo6.jpeg",
+      "image": "/This PC/OS(C:)/Personal/8th sem/SEC/photo6.jpeg",
       "caption": "My whole world"
     }
   ],
   "prosCons": [
     {
-      "gif": "/assets/cook-bear.gif",
+      "gif": "/src/assets/cook-bear.gif",
       "text": "I'll cook your fav food like it's my love language 🍳"
     },
     {
-      "gif": "/assets/comfort-bear.gif", 
+      "gif": "/src/assets/comfort-bear.gif", 
       "text": "Unlimited comfort and care"
     },
     {
-      "gif": "/assets/cute-bear.gif",
+      "gif": "/src/assets/cute-bear.gif",
       "text": "I listen… like actually listen"
     },
     {
-      "gif": "/assets/kiss-bears.gif",
+      "gif": "/src/assets/kiss-bears.gif",
       "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
     },
     {
-      "gif": "/assets/photo-bear.gif",
+      "gif": "/src/assets/photo-bear.gif",
       "text": "Your personal photographer for all the cute moments 📸"
     },
     {
-      "gif": "/assets/music-bear.gif",
+      "gif": "/src/assets/music-bear.gif",
       "text": "Live singing performances… just for you 🎶😉"
     }
   ],
@@ -103,8 +103,8 @@
       "duration": "3:44",
       "album": "Kaatru Veliyidai",
       "artist": "ARR",
-      "cover": "/assets/SEC/Azhagiye1.jpg",
-      "audio": "/songs/Azhagiye.mp3"
+      "cover": "/This PC/OS(C:)/Personal/8th sem/SEC/Azhagiye1.jpg",
+      "audio": "/This PC/OS(C:)/Personal/8th sem/SEC/Azhagiye.mp3"
     },
     {
       "id": 2,
@@ -112,8 +112,8 @@
       "duration": "4:18", 
       "album": "Saiyaara",
       "artist": " Vishal Mishra ",
-      "cover": "/assets/SEC/Tum Ho Toh1.jpg",
-      "audio": "/songs/TumHoToh.mp3"
+      "cover": "/This PC/OS(C:)/Personal/8th sem/SEC/Tum Ho Toh1.jpg",
+      "audio": "/This PC/OS(C:)/Personal/8th sem/SEC/Tum Ho Toh.MP3"
     },
     {
       "id": 3,
@@ -121,8 +121,8 @@
       "duration": "03:30",
       "album": "OK KANMANI",
       "artist": "ARR",
-      "cover": "/assets/SEC/Mental Manadhil1.jpg",
-      "audio": "/songs/MentalManadhil.mp3"
+      "cover": "/This PC/OS(C:)/Personal/8th sem/SEC/Mental Manadhil1.jpg",
+      "audio": "/This PC/OS(C:)/Personal/8th sem/SEC/Mental Manadhil.MP3"
     },
     {
       "id": 4,
@@ -130,8 +130,8 @@
       "duration": "04:48",
       "album": "24",
       "artist": "ARR",
-      "cover": "/assets/SEC/Naan Un1.jpg",
-      "audio": "/songs/NaanUn.mp3"
+      "cover": "/This PC/OS(C:)/Personal/8th sem/SEC/Naan Un1.jpg",
+      "audio": "/This PC/OS(C:)/Personal/8th sem/SEC/Naan Un.MP3"
     },
     {
       "id": 5,
@@ -139,8 +139,8 @@
       "duration": "2:57",
       "album": "Dude",
       "artist": "Sai",
-      "cover": "/assets/SEC/Metro Proposal1.jpg",
-      "audio": "/songs/MetroProposal.mp3"
+      "cover": "/This PC/OS(C:)/Personal/8th sem/SEC/Metro Proposal1.jpg",
+      "audio": "/This PC/OS(C:)/Personal/8th sem/SEC/Metro Proposal.MP3"
     }
   ],
   "letter": {

@@ -1,0 +1,168 @@
+{
+  "names": {
+    "sender": "The Vegetarian Guy",
+    "receiver": " Theodore"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": " You make my life beautiful, ",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": " You have made me the happiest person alive❤️😘, I love you babes",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Patootie",
+    "songsTitle": "Our Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/src/assets/cute-bear.gif",
+    "musicBearGif": "/src/assets/music-bear.gif",
+    "comfortBearGif": "/src/assets/comfort-bear.gif",
+    "kissBearGif": "/src/assets/kiss-bears.gif",
+    "photoBearGif": "/src/assets/photo-bear.gif",
+    "loveYouBearGif": "/src/assets/love-you-bear.gif",
+    "childGif": "/src/assets/child.gif",
+    "roseBearGif": "/src/assets/rose-bear.gif",
+    "cookBearGif": "/src/assets/cook-bear.gif",
+    "kissSingleBearGif": "/src/assets/kiss-bear.gif",
+    "leftButton": "/src/assets/left-button.png",
+    "rightButton": "/src/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/src/assets/gift/gift1.jpg",
+    "gift2": "/src/assets/gift/gift2.jpg", 
+    "gift3": "/src/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/src/assets/SEC/photo1.jpeg",
+      "caption": "Our first special moment together"
+    },
+    {
+      "image": "/src/assets/SEC/photo2.jpeg", 
+      "caption": "Cooking memories together"
+    },
+    {
+      "image": "/src/assets/SEC/photo3.jpeg",
+      "caption": "My favorite moments"
+    },
+    {
+      "image": "/src/assets/SEC/photo4.jpeg",
+      "caption": "When you made me smile like this"
+    },
+    {
+      "image": "/src/assets/SEC/photo5.jpeg",
+      "caption": "Our miscalculated 3 month anniversary"
+    },
+    {
+      "image": "/src/assets/SEC/photo6.jpeg",
+      "caption": "My whole world"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/src/assets/cook-bear.gif",
+      "text": "I'll cook your fav food like it's my love language 🍳"
+    },
+    {
+      "gif": "/src/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/src/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/src/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses\n(non-negotiable 😏)"
+    },
+    {
+      "gif": "/src/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/src/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Azhagiye",
+      "duration": "3:44",
+      "album": "Kaatru Veliyidai",
+      "artist": "ARR",
+      "cover": "/src/assets/SEC/Azhagiye1.jpg",
+      "audio": "/songs/Azhagiye.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Tum Ho Toh",
+      "duration": "4:18", 
+      "album": "Saiyaara",
+      "artist": " Vishal Mishra ",
+      "cover": "/src/assets/SEC/Tum Ho Toh1.jpg",
+      "audio": "/songs/TumHoToh.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Mental Manadhil",
+      "duration": "03:30",
+      "album": "OK KANMANI",
+      "artist": "ARR",
+      "cover": "/src/assets/SEC/Mental Manadhil1.jpg",
+      "audio": "/songs/MentalManadhil.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Naan Un",
+      "duration": "04:48",
+      "album": "24",
+      "artist": "ARR",
+      "cover": "/src/assets/SEC/Naan Un1.jpg",
+      "audio": "/songs/NaanUn.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Metro Proposal",
+      "duration": "2:57",
+      "album": "Dude",
+      "artist": "Sai",
+      "cover": "/src/assets/SEC/Metro Proposal1.jpg",
+      "audio": "/songs/MetroProposal.mp3"
+    }
+  ],
+  "letter": {
+    "title": "My Dearest Theodore,",
+    "content": [
+      "I fell for you in a way I never expected, and now every day feels brighter just because you're in it.",
+      "Loving you comes so naturally. It's in your smile, your laugh, and the comfort I feel whenever I'm with you.",
+      "You are my favorite part of every moment, and the best thing that ever happened to me."
+    ],
+    "signature": "Forever yours,\nbabes"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}

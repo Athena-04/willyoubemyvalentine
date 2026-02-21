@@ -113,7 +113,7 @@
       "album": "Saiyaara",
       "artist": " Vishal Mishra ",
       "cover": "/assets/SEC/Tum Ho Toh1.jpg",
-      "audio": "/songs/TumHoToh.mp3"
+      "audio": "/songs/Tum Ho Toh.mp3"
     },
     {
       "id": 3,
@@ -122,7 +122,7 @@
       "album": "OK KANMANI",
       "artist": "ARR",
       "cover": "/assets/SEC/Mental Manadhil1.jpg",
-      "audio": "/songs/MentalManadhil.mp3"
+      "audio": "/songs/Mental Manadhil.mp3"
     },
     {
       "id": 4,
@@ -131,7 +131,7 @@
       "album": "24",
       "artist": "ARR",
       "cover": "/assets/SEC/Naan Un1.jpg",
-      "audio": "/songs/NaanUn.mp3"
+      "audio": "/songs/Naan Un.mp3"
     },
     {
       "id": 5,
@@ -140,7 +140,7 @@
       "album": "Dude",
       "artist": "Sai",
       "cover": "/assets/SEC/Metro Proposal1.jpg",
-      "audio": "/songs/MetroProposal.mp3"
+      "audio": "/songs/Metro Proposal.mp3"
     }
   ],
   "letter": {
